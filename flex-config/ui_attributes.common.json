@@ -71,7 +71,7 @@
       "conversation_transfer": {
         "enabled": true,
         "cold_transfer": true,
-        "multi_participant": true
+        "multi_participant": false
       },
       "chat_to_video_escalation": {
         "enabled": false
